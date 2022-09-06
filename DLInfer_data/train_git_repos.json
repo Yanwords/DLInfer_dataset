@@ -1,0 +1,3922 @@
+[
+  {
+    "author": "kennethreitz",
+    "repo": "requests-html",
+    "repoUrl": "https://github.com/kennethreitz/requests-html",
+    "stars": 9380,
+    "forks": 542
+  },
+  {
+    "author": "aio-libs",
+    "repo": "aiohttp",
+    "repoUrl": "https://github.com/aio-libs/aiohttp",
+    "stars": 8360,
+    "forks": 1240
+  },
+  {
+    "author": "darknessomi",
+    "repo": "musicbox",
+    "repoUrl": "https://github.com/darknessomi/musicbox",
+    "stars": 7430,
+    "forks": 1380
+  },
+  {
+    "author": "allenai",
+    "repo": "allennlp",
+    "repoUrl": "https://github.com/allenai/allennlp",
+    "stars": 6950,
+    "forks": 1450
+  },
+  {
+    "author": "aws",
+    "repo": "chalice",
+    "repoUrl": "https://github.com/aws/chalice",
+    "stars": 5980,
+    "forks": 961
+  },
+  {
+    "author": "encode",
+    "repo": "apistar",
+    "repoUrl": "https://github.com/encode/apistar",
+    "stars": 4059.9999999999995,
+    "forks": 304
+  },
+  {
+    "author": "HypothesisWorks",
+    "repo": "hypothesis",
+    "repoUrl": "https://github.com/HypothesisWorks/hypothesis",
+    "stars": 3760,
+    "forks": 731
+  },
+  {
+    "author": "robinhood",
+    "repo": "faust",
+    "repoUrl": "https://github.com/robinhood/faust",
+    "stars": 3420,
+    "forks": 669
+  },
+  {
+    "author": "snorkel-team",
+    "repo": "snorkel",
+    "repoUrl": "https://github.com/snorkel-team/snorkel",
+    "stars": 3220,
+    "forks": 607
+  },
+  {
+    "author": "shidenggui",
+    "repo": "easytrader",
+    "repoUrl": "https://github.com/shidenggui/easytrader",
+    "stars": 2830,
+    "forks": 1330
+  },
+  {
+    "author": "lk-geimfari",
+    "repo": "mimesis",
+    "repoUrl": "https://github.com/lk-geimfari/mimesis",
+    "stars": 2450,
+    "forks": 486
+  },
+  {
+    "author": "tiangolo",
+    "repo": "fastapi",
+    "repoUrl": "https://github.com/tiangolo/fastapi",
+    "stars": 2170,
+    "forks": 419
+  },
+  {
+    "author": "timothycrosley",
+    "repo": "isort",
+    "repoUrl": "https://github.com/timothycrosley/isort",
+    "stars": 2140,
+    "forks": 245
+  },
+  {
+    "author": "encode",
+    "repo": "starlette",
+    "repoUrl": "https://github.com/encode/starlette",
+    "stars": 2020,
+    "forks": 373
+  },
+  {
+    "author": "mozillazg",
+    "repo": "python-pinyin",
+    "repoUrl": "https://github.com/mozillazg/python-pinyin",
+    "stars": 1980,
+    "forks": 333
+  },
+  {
+    "author": "nabla-c0d3",
+    "repo": "sslyze",
+    "repoUrl": "https://github.com/nabla-c0d3/sslyze",
+    "stars": 1980,
+    "forks": 979
+  },
+  {
+    "author": "skorokithakis",
+    "repo": "catt",
+    "repoUrl": "https://github.com/skorokithakis/catt",
+    "stars": 1740,
+    "forks": 762
+  },
+  {
+    "author": "encode",
+    "repo": "httpx",
+    "repoUrl": "https://github.com/encode/httpx",
+    "stars": 1590,
+    "forks": 521
+  },
+  {
+    "author": "quantumblacklabs",
+    "repo": "kedro",
+    "repoUrl": "https://github.com/quantumblacklabs/kedro",
+    "stars": 1450,
+    "forks": 462
+  },
+  {
+    "author": "alerta",
+    "repo": "alerta",
+    "repoUrl": "https://github.com/alerta/alerta",
+    "stars": 1450,
+    "forks": 478
+  },
+  {
+    "author": "shidenggui",
+    "repo": "easyquotation",
+    "repoUrl": "https://github.com/shidenggui/easyquotation",
+    "stars": 1390,
+    "forks": 652
+  },
+  {
+    "author": "miyakogi",
+    "repo": "pyppeteer",
+    "repoUrl": "https://github.com/miyakogi/pyppeteer",
+    "stars": 1220,
+    "forks": 379
+  },
+  {
+    "author": "samuelcolvin",
+    "repo": "pydantic",
+    "repoUrl": "https://github.com/samuelcolvin/pydantic",
+    "stars": 1120,
+    "forks": 347
+  },
+  {
+    "author": "fishtown-analytics",
+    "repo": "dbt",
+    "repoUrl": "https://github.com/fishtown-analytics/dbt",
+    "stars": 1010,
+    "forks": 181
+  },
+  {
+    "author": "airbnb",
+    "repo": "binaryalert",
+    "repoUrl": "https://github.com/airbnb/binaryalert",
+    "stars": 898,
+    "forks": 102
+  },
+  {
+    "author": "ethereum",
+    "repo": "py-evm",
+    "repoUrl": "https://github.com/ethereum/py-evm",
+    "stars": 887,
+    "forks": 318
+  },
+  {
+    "author": "instaloader",
+    "repo": "instaloader",
+    "repoUrl": "https://github.com/instaloader/instaloader",
+    "stars": 874,
+    "forks": 134
+  },
+  {
+    "author": "awslabs",
+    "repo": "sockeye",
+    "repoUrl": "https://github.com/awslabs/sockeye",
+    "stars": 853,
+    "forks": 237
+  },
+  {
+    "author": "snapcore",
+    "repo": "snapcraft",
+    "repoUrl": "https://github.com/snapcore/snapcraft",
+    "stars": 820,
+    "forks": 311
+  },
+  {
+    "author": "encode",
+    "repo": "databases",
+    "repoUrl": "https://github.com/encode/databases",
+    "stars": 769,
+    "forks": 48
+  },
+  {
+    "author": "yampelo",
+    "repo": "beagle",
+    "repoUrl": "https://github.com/yampelo/beagle",
+    "stars": 735,
+    "forks": 80
+  },
+  {
+    "author": "jwkvam",
+    "repo": "bowtie",
+    "repoUrl": "https://github.com/jwkvam/bowtie",
+    "stars": 673,
+    "forks": 57
+  },
+  {
+    "author": "jazzband",
+    "repo": "django-axes",
+    "repoUrl": "https://github.com/jazzband/django-axes",
+    "stars": 634,
+    "forks": 216
+  },
+  {
+    "author": "awslabs",
+    "repo": "gluon-ts",
+    "repoUrl": "https://github.com/awslabs/gluon-ts",
+    "stars": 610,
+    "forks": 106
+  },
+  {
+    "author": "klen",
+    "repo": "pylama",
+    "repoUrl": "https://github.com/klen/pylama",
+    "stars": 606,
+    "forks": 63
+  },
+  {
+    "author": "sourcelair",
+    "repo": "ceryx",
+    "repoUrl": "https://github.com/sourcelair/ceryx",
+    "stars": 595,
+    "forks": 102
+  },
+  {
+    "author": "jreese",
+    "repo": "aiomultiprocess",
+    "repoUrl": "https://github.com/jreese/aiomultiprocess",
+    "stars": 585,
+    "forks": 45
+  },
+  {
+    "author": "encode",
+    "repo": "orm",
+    "repoUrl": "https://github.com/encode/orm",
+    "stars": 571,
+    "forks": 28
+  },
+  {
+    "author": "PyCQA",
+    "repo": "pydocstyle",
+    "repoUrl": "https://github.com/PyCQA/pydocstyle",
+    "stars": 564,
+    "forks": 117
+  },
+  {
+    "author": "cltk",
+    "repo": "cltk",
+    "repoUrl": "https://github.com/cltk/cltk",
+    "stars": 542,
+    "forks": 277
+  },
+  {
+    "author": "pirate",
+    "repo": "crypto-trader",
+    "repoUrl": "https://github.com/pirate/crypto-trader",
+    "stars": 527,
+    "forks": 128
+  },
+  {
+    "author": "mirumee",
+    "repo": "ariadne",
+    "repoUrl": "https://github.com/mirumee/ariadne",
+    "stars": 495,
+    "forks": 35
+  },
+  {
+    "author": "tortoise",
+    "repo": "tortoise-orm",
+    "repoUrl": "https://github.com/tortoise/tortoise-orm",
+    "stars": 488,
+    "forks": 46
+  },
+  {
+    "author": "alexander-akhmetov",
+    "repo": "python-shortcuts",
+    "repoUrl": "https://github.com/alexander-akhmetov/python-shortcuts",
+    "stars": 470,
+    "forks": 27
+  },
+  {
+    "author": "Netflix-Skunkworks",
+    "repo": "diffy",
+    "repoUrl": "https://github.com/Netflix-Skunkworks/diffy",
+    "stars": 467,
+    "forks": 42
+  },
+  {
+    "author": "shacker",
+    "repo": "django-todo",
+    "repoUrl": "https://github.com/shacker/django-todo",
+    "stars": 457,
+    "forks": 161
+  },
+  {
+    "author": "Shougo",
+    "repo": "defx.nvim",
+    "repoUrl": "https://github.com/Shougo/defx.nvim",
+    "stars": 454,
+    "forks": 30
+  },
+  {
+    "author": "afourmy",
+    "repo": "eNMS",
+    "repoUrl": "https://github.com/afourmy/eNMS",
+    "stars": 409,
+    "forks": 73
+  },
+  {
+    "author": "tiangolo",
+    "repo": "full-stack-fastapi-postgresql",
+    "repoUrl": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+    "stars": 399,
+    "forks": 62
+  },
+  {
+    "author": "bocadilloproject",
+    "repo": "bocadillo",
+    "repoUrl": "https://github.com/bocadilloproject/bocadillo",
+    "stars": 396,
+    "forks": 34
+  },
+  {
+    "author": "bbugyi200",
+    "repo": "funky",
+    "repoUrl": "https://github.com/bbugyi200/funky",
+    "stars": 396,
+    "forks": 15
+  },
+  {
+    "author": "sabeechen",
+    "repo": "hassio-google-drive-backup",
+    "repoUrl": "https://github.com/sabeechen/hassio-google-drive-backup",
+    "stars": 390,
+    "forks": 18
+  },
+  {
+    "author": "pymc-devs",
+    "repo": "pymc4",
+    "repoUrl": "https://github.com/pymc-devs/pymc4",
+    "stars": 374,
+    "forks": 45
+  },
+  {
+    "author": "maqp",
+    "repo": "tfc",
+    "repoUrl": "https://github.com/maqp/tfc",
+    "stars": 369,
+    "forks": 16
+  },
+  {
+    "author": "ufal",
+    "repo": "neuralmonkey",
+    "repoUrl": "https://github.com/ufal/neuralmonkey",
+    "stars": 368,
+    "forks": 88
+  },
+  {
+    "author": "n8henrie",
+    "repo": "pycookiecheat",
+    "repoUrl": "https://github.com/n8henrie/pycookiecheat",
+    "stars": 361,
+    "forks": 64
+  },
+  {
+    "author": "kmkurn",
+    "repo": "pytorch-crf",
+    "repoUrl": "https://github.com/kmkurn/pytorch-crf",
+    "stars": 350,
+    "forks": 53
+  },
+  {
+    "author": "hardbyte",
+    "repo": "python-can",
+    "repoUrl": "https://github.com/hardbyte/python-can",
+    "stars": 318,
+    "forks": 180
+  },
+  {
+    "author": "allenai",
+    "repo": "scispacy",
+    "repoUrl": "https://github.com/allenai/scispacy",
+    "stars": 316,
+    "forks": 37
+  },
+  {
+    "author": "aio-libs",
+    "repo": "aiohttp-demos",
+    "repoUrl": "https://github.com/aio-libs/aiohttp-demos",
+    "stars": 315,
+    "forks": 106
+  },
+  {
+    "author": "SeldonIO",
+    "repo": "alibi",
+    "repoUrl": "https://github.com/SeldonIO/alibi",
+    "stars": 314,
+    "forks": 31
+  },
+  {
+    "author": "tsileo",
+    "repo": "microblog.pub",
+    "repoUrl": "https://github.com/tsileo/microblog.pub",
+    "stars": 311,
+    "forks": 18
+  },
+  {
+    "author": "microsoft",
+    "repo": "bistring",
+    "repoUrl": "https://github.com/microsoft/bistring",
+    "stars": 306,
+    "forks": 4
+  },
+  {
+    "author": "antonagestam",
+    "repo": "collectfast",
+    "repoUrl": "https://github.com/antonagestam/collectfast",
+    "stars": 297,
+    "forks": 43
+  },
+  {
+    "author": "tiangolo",
+    "repo": "uwsgi-nginx-docker",
+    "repoUrl": "https://github.com/tiangolo/uwsgi-nginx-docker",
+    "stars": 292,
+    "forks": 145
+  },
+  {
+    "author": "nvbn",
+    "repo": "py-backwards",
+    "repoUrl": "https://github.com/nvbn/py-backwards",
+    "stars": 288,
+    "forks": 9
+  },
+  {
+    "author": "aio-libs",
+    "repo": "aiomonitor",
+    "repoUrl": "https://github.com/aio-libs/aiomonitor",
+    "stars": 285,
+    "forks": 18
+  },
+  {
+    "author": "aio-libs",
+    "repo": "janus",
+    "repoUrl": "https://github.com/aio-libs/janus",
+    "stars": 281,
+    "forks": 19
+  },
+  {
+    "author": "full-stack-deep-learning",
+    "repo": "fsdl-text-recognizer-project",
+    "repoUrl": "https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project",
+    "stars": 278,
+    "forks": 132
+  },
+  {
+    "author": "mila-iqia",
+    "repo": "myia",
+    "repoUrl": "https://github.com/mila-iqia/myia",
+    "stars": 268,
+    "forks": 28
+  },
+  {
+    "author": "insanum",
+    "repo": "sncli",
+    "repoUrl": "https://github.com/insanum/sncli",
+    "stars": 266,
+    "forks": 26
+  },
+  {
+    "author": "nigma",
+    "repo": "django-easy-pdf",
+    "repoUrl": "https://github.com/nigma/django-easy-pdf",
+    "stars": 265,
+    "forks": 82
+  },
+  {
+    "author": "awwong1",
+    "repo": "torchprof",
+    "repoUrl": "https://github.com/awwong1/torchprof",
+    "stars": 256,
+    "forks": 6
+  },
+  {
+    "author": "vchaptsev",
+    "repo": "cookiecutter-django-vue",
+    "repoUrl": "https://github.com/vchaptsev/cookiecutter-django-vue",
+    "stars": 248,
+    "forks": 47
+  },
+  {
+    "author": "encode",
+    "repo": "typesystem",
+    "repoUrl": "https://github.com/encode/typesystem",
+    "stars": 248,
+    "forks": 19
+  },
+  {
+    "author": "cedricbonhomme",
+    "repo": "Stegano",
+    "repoUrl": "https://github.com/cedricbonhomme/Stegano",
+    "stars": 237,
+    "forks": 32
+  },
+  {
+    "author": "jaywink",
+    "repo": "socialhome",
+    "repoUrl": "https://github.com/jaywink/socialhome",
+    "stars": 237,
+    "forks": 39
+  },
+  {
+    "author": "gjcarneiro",
+    "repo": "yacron",
+    "repoUrl": "https://github.com/gjcarneiro/yacron",
+    "stars": 235,
+    "forks": 19
+  },
+  {
+    "author": "facebookincubator",
+    "repo": "ptr",
+    "repoUrl": "https://github.com/facebookincubator/ptr",
+    "stars": 230,
+    "forks": 8
+  },
+  {
+    "author": "OpenSlides",
+    "repo": "OpenSlides",
+    "repoUrl": "https://github.com/OpenSlides/OpenSlides",
+    "stars": 228,
+    "forks": 71
+  },
+  {
+    "author": "medipixel",
+    "repo": "rl_algorithms",
+    "repoUrl": "https://github.com/medipixel/rl_algorithms",
+    "stars": 221,
+    "forks": 20
+  },
+  {
+    "author": "n8henrie",
+    "repo": "fauxmo",
+    "repoUrl": "https://github.com/n8henrie/fauxmo",
+    "stars": 218,
+    "forks": 51
+  },
+  {
+    "author": "typeddjango",
+    "repo": "django-stubs",
+    "repoUrl": "https://github.com/typeddjango/django-stubs",
+    "stars": 209,
+    "forks": 33
+  },
+  {
+    "author": "dunossauro",
+    "repo": "live-de-python",
+    "repoUrl": "https://github.com/dunossauro/live-de-python",
+    "stars": 206,
+    "forks": 54
+  },
+  {
+    "author": "HazyResearch",
+    "repo": "fonduer",
+    "repoUrl": "https://github.com/HazyResearch/fonduer",
+    "stars": 203,
+    "forks": 43
+  },
+  {
+    "author": "lidatong",
+    "repo": "dataclasses-json",
+    "repoUrl": "https://github.com/lidatong/dataclasses-json",
+    "stars": 201,
+    "forks": 37
+  },
+  {
+    "author": "python-leap",
+    "repo": "book",
+    "repoUrl": "https://github.com/python-leap/book",
+    "stars": 194,
+    "forks": 28
+  },
+  {
+    "author": "samuelcolvin",
+    "repo": "arq",
+    "repoUrl": "https://github.com/samuelcolvin/arq",
+    "stars": 194,
+    "forks": 21
+  },
+  {
+    "author": "graphql-python",
+    "repo": "graphql-core-next",
+    "repoUrl": "https://github.com/graphql-python/graphql-core-next",
+    "stars": 184,
+    "forks": 27
+  },
+  {
+    "author": "aio-libs",
+    "repo": "async-timeout",
+    "repoUrl": "https://github.com/aio-libs/async-timeout",
+    "stars": 182,
+    "forks": 19
+  },
+  {
+    "author": "cmdmnt",
+    "repo": "commandment",
+    "repoUrl": "https://github.com/cmdmnt/commandment",
+    "stars": 179,
+    "forks": 39
+  },
+  {
+    "author": "prideout",
+    "repo": "svg3d",
+    "repoUrl": "https://github.com/prideout/svg3d",
+    "stars": 178,
+    "forks": 14
+  },
+  {
+    "author": "ethereum",
+    "repo": "beacon_chain",
+    "repoUrl": "https://github.com/ethereum/beacon_chain",
+    "stars": 175,
+    "forks": 36
+  },
+  {
+    "author": "nelson-liu",
+    "repo": "contextual-repr-analysis",
+    "repoUrl": "https://github.com/nelson-liu/contextual-repr-analysis",
+    "stars": 174,
+    "forks": 17
+  },
+  {
+    "author": "ICLRandD",
+    "repo": "Blackstone",
+    "repoUrl": "https://github.com/ICLRandD/Blackstone",
+    "stars": 172,
+    "forks": 16
+  },
+  {
+    "author": "Gsllchb",
+    "repo": "Handright",
+    "repoUrl": "https://github.com/Gsllchb/Handright",
+    "stars": 170,
+    "forks": 29
+  },
+  {
+    "author": "Parsl",
+    "repo": "parsl",
+    "repoUrl": "https://github.com/Parsl/parsl",
+    "stars": 169,
+    "forks": 42
+  },
+  {
+    "author": "AlvarBer",
+    "repo": "Persimmon",
+    "repoUrl": "https://github.com/AlvarBer/Persimmon",
+    "stars": 166,
+    "forks": 32
+  },
+  {
+    "author": "common-workflow-language",
+    "repo": "cwltool",
+    "repoUrl": "https://github.com/common-workflow-language/cwltool",
+    "stars": 166,
+    "forks": 128
+  },
+  {
+    "author": "adamcaudill",
+    "repo": "yawast",
+    "repoUrl": "https://github.com/adamcaudill/yawast",
+    "stars": 161,
+    "forks": 39
+  },
+  {
+    "author": "kubeflow",
+    "repo": "kfserving",
+    "repoUrl": "https://github.com/kubeflow/kfserving",
+    "stars": 157,
+    "forks": 44
+  },
+  {
+    "author": "relekang",
+    "repo": "python-semantic-release",
+    "repoUrl": "https://github.com/relekang/python-semantic-release",
+    "stars": 156,
+    "forks": 46
+  },
+  {
+    "author": "zurutech",
+    "repo": "gans-from-theory-to-production",
+    "repoUrl": "https://github.com/zurutech/gans-from-theory-to-production",
+    "stars": 156,
+    "forks": 30
+  },
+  {
+    "author": "jwkvam",
+    "repo": "celluloid",
+    "repoUrl": "https://github.com/jwkvam/celluloid",
+    "stars": 155,
+    "forks": 6
+  },
+  {
+    "author": "home-assistant",
+    "repo": "home-assistant-cli",
+    "repoUrl": "https://github.com/home-assistant/home-assistant-cli",
+    "stars": 154,
+    "forks": 25
+  },
+  {
+    "author": "vitorfs",
+    "repo": "woid",
+    "repoUrl": "https://github.com/vitorfs/woid",
+    "stars": 154,
+    "forks": 94
+  },
+  {
+    "author": "aio-libs",
+    "repo": "multidict",
+    "repoUrl": "https://github.com/aio-libs/multidict",
+    "stars": 150,
+    "forks": 35
+  },
+  {
+    "author": "numpy",
+    "repo": "numpy-stubs",
+    "repoUrl": "https://github.com/numpy/numpy-stubs",
+    "stars": 149,
+    "forks": 17
+  },
+  {
+    "author": "nucypher",
+    "repo": "pyUmbral",
+    "repoUrl": "https://github.com/nucypher/pyUmbral",
+    "stars": 142,
+    "forks": 37
+  },
+  {
+    "author": "Shougo",
+    "repo": "deoppet.nvim",
+    "repoUrl": "https://github.com/Shougo/deoppet.nvim",
+    "stars": 142,
+    "forks": 1
+  },
+  {
+    "author": "improbable-research",
+    "repo": "keanu",
+    "repoUrl": "https://github.com/improbable-research/keanu",
+    "stars": 141,
+    "forks": 32
+  },
+  {
+    "author": "B2W-BIT",
+    "repo": "aiologger",
+    "repoUrl": "https://github.com/B2W-BIT/aiologger",
+    "stars": 139,
+    "forks": 17
+  },
+  {
+    "author": "ahawker",
+    "repo": "ulid",
+    "repoUrl": "https://github.com/ahawker/ulid",
+    "stars": 138,
+    "forks": 10
+  },
+  {
+    "author": "HTTP-APIs",
+    "repo": "hydrus",
+    "repoUrl": "https://github.com/HTTP-APIs/hydrus",
+    "stars": 134,
+    "forks": 94
+  },
+  {
+    "author": "aio-libs",
+    "repo": "aiozipkin",
+    "repoUrl": "https://github.com/aio-libs/aiozipkin",
+    "stars": 129,
+    "forks": 17
+  },
+  {
+    "author": "neogeny",
+    "repo": "TatSu",
+    "repoUrl": "https://github.com/neogeny/TatSu",
+    "stars": 129,
+    "forks": 30
+  },
+  {
+    "author": "RoboJackets",
+    "repo": "robocup-software",
+    "repoUrl": "https://github.com/RoboJackets/robocup-software",
+    "stars": 129,
+    "forks": 160
+  },
+  {
+    "author": "uwdata",
+    "repo": "draco",
+    "repoUrl": "https://github.com/uwdata/draco",
+    "stars": 126,
+    "forks": 5
+  },
+  {
+    "author": "scality",
+    "repo": "metalk8s",
+    "repoUrl": "https://github.com/scality/metalk8s",
+    "stars": 126,
+    "forks": 18
+  },
+  {
+    "author": "dropbox",
+    "repo": "sqlalchemy-stubs",
+    "repoUrl": "https://github.com/dropbox/sqlalchemy-stubs",
+    "stars": 124,
+    "forks": 19
+  },
+  {
+    "author": "aio-libs",
+    "repo": "create-aio-app",
+    "repoUrl": "https://github.com/aio-libs/create-aio-app",
+    "stars": 123,
+    "forks": 30
+  },
+  {
+    "author": "vitorfs",
+    "repo": "colossus",
+    "repoUrl": "https://github.com/vitorfs/colossus",
+    "stars": 119,
+    "forks": 26
+  },
+  {
+    "author": "olist",
+    "repo": "correios",
+    "repoUrl": "https://github.com/olist/correios",
+    "stars": 118,
+    "forks": 31
+  },
+  {
+    "author": "rastrea2r",
+    "repo": "rastrea2r",
+    "repoUrl": "https://github.com/rastrea2r/rastrea2r",
+    "stars": 118,
+    "forks": 25
+  },
+  {
+    "author": "ducdetronquito",
+    "repo": "scalpl",
+    "repoUrl": "https://github.com/ducdetronquito/scalpl",
+    "stars": 117,
+    "forks": 3
+  },
+  {
+    "author": "tiangolo",
+    "repo": "uvicorn-gunicorn-fastapi-docker",
+    "repoUrl": "https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker",
+    "stars": 116,
+    "forks": 11
+  },
+  {
+    "author": "rowanz",
+    "repo": "swagaf",
+    "repoUrl": "https://github.com/rowanz/swagaf",
+    "stars": 114,
+    "forks": 17
+  },
+  {
+    "author": "zulip",
+    "repo": "zulip-terminal",
+    "repoUrl": "https://github.com/zulip/zulip-terminal",
+    "stars": 113,
+    "forks": 65
+  },
+  {
+    "author": "gridsync",
+    "repo": "gridsync",
+    "repoUrl": "https://github.com/gridsync/gridsync",
+    "stars": 113,
+    "forks": 13
+  },
+  {
+    "author": "openstack",
+    "repo": "requirements",
+    "repoUrl": "https://github.com/openstack/requirements",
+    "stars": 113,
+    "forks": 182
+  },
+  {
+    "author": "awslabs",
+    "repo": "datawig",
+    "repoUrl": "https://github.com/awslabs/datawig",
+    "stars": 110,
+    "forks": 15
+  },
+  {
+    "author": "larsyencken",
+    "repo": "csvdiff",
+    "repoUrl": "https://github.com/larsyencken/csvdiff",
+    "stars": 109,
+    "forks": 23
+  },
+  {
+    "author": "dbader",
+    "repo": "pytest-mypy",
+    "repoUrl": "https://github.com/dbader/pytest-mypy",
+    "stars": 109,
+    "forks": 18
+  },
+  {
+    "author": "lyft",
+    "repo": "awspricing",
+    "repoUrl": "https://github.com/lyft/awspricing",
+    "stars": 108,
+    "forks": 30
+  },
+  {
+    "author": "datawire",
+    "repo": "kubernaut",
+    "repoUrl": "https://github.com/datawire/kubernaut",
+    "stars": 106,
+    "forks": 4
+  },
+  {
+    "author": "stlehmann",
+    "repo": "Flask-MQTT",
+    "repoUrl": "https://github.com/stlehmann/Flask-MQTT",
+    "stars": 106,
+    "forks": 29
+  },
+  {
+    "author": "asyrjasalo",
+    "repo": "RESTinstance",
+    "repoUrl": "https://github.com/asyrjasalo/RESTinstance",
+    "stars": 105,
+    "forks": 42
+  },
+  {
+    "author": "catmaid",
+    "repo": "CATMAID",
+    "repoUrl": "https://github.com/catmaid/CATMAID",
+    "stars": 105,
+    "forks": 44
+  },
+  {
+    "author": "ask",
+    "repo": "mode",
+    "repoUrl": "https://github.com/ask/mode",
+    "stars": 105,
+    "forks": 13
+  },
+  {
+    "author": "TankerHQ",
+    "repo": "tsrc",
+    "repoUrl": "https://github.com/TankerHQ/tsrc",
+    "stars": 99,
+    "forks": 12
+  },
+  {
+    "author": "Yelp",
+    "repo": "bravado-core",
+    "repoUrl": "https://github.com/Yelp/bravado-core",
+    "stars": 99,
+    "forks": 78
+  },
+  {
+    "author": "allenai",
+    "repo": "allennlp-as-a-library-example",
+    "repoUrl": "https://github.com/allenai/allennlp-as-a-library-example",
+    "stars": 98,
+    "forks": 38
+  },
+  {
+    "author": "repleo",
+    "repo": "bounca",
+    "repoUrl": "https://github.com/repleo/bounca",
+    "stars": 97,
+    "forks": 8
+  },
+  {
+    "author": "martin-majlis",
+    "repo": "Wikipedia-API",
+    "repoUrl": "https://github.com/martin-majlis/Wikipedia-API",
+    "stars": 96,
+    "forks": 19
+  },
+  {
+    "author": "productml",
+    "repo": "blurr",
+    "repoUrl": "https://github.com/productml/blurr",
+    "stars": 93,
+    "forks": 2
+  },
+  {
+    "author": "spacetx",
+    "repo": "starfish",
+    "repoUrl": "https://github.com/spacetx/starfish",
+    "stars": 92,
+    "forks": 35
+  },
+  {
+    "author": "mammuth",
+    "repo": "bitcoin-arbitrage-trading-bot",
+    "repoUrl": "https://github.com/mammuth/bitcoin-arbitrage-trading-bot",
+    "stars": 90,
+    "forks": 7
+  },
+  {
+    "author": "soaxelbrooke",
+    "repo": "python-bpe",
+    "repoUrl": "https://github.com/soaxelbrooke/python-bpe",
+    "stars": 89,
+    "forks": 19
+  },
+  {
+    "author": "RTIInternational",
+    "repo": "gobbli",
+    "repoUrl": "https://github.com/RTIInternational/gobbli",
+    "stars": 83,
+    "forks": 5
+  },
+  {
+    "author": "csingley",
+    "repo": "ofxtools",
+    "repoUrl": "https://github.com/csingley/ofxtools",
+    "stars": 82,
+    "forks": 29
+  },
+  {
+    "author": "typeddjango",
+    "repo": "djangorestframework-stubs",
+    "repoUrl": "https://github.com/typeddjango/djangorestframework-stubs",
+    "stars": 81,
+    "forks": 11
+  },
+  {
+    "author": "bosondata",
+    "repo": "badwolf",
+    "repoUrl": "https://github.com/bosondata/badwolf",
+    "stars": 80,
+    "forks": 14
+  },
+  {
+    "author": "mingrammer",
+    "repo": "pyreportcard",
+    "repoUrl": "https://github.com/mingrammer/pyreportcard",
+    "stars": 80,
+    "forks": 9
+  },
+  {
+    "author": "onyb",
+    "repo": "reobject",
+    "repoUrl": "https://github.com/onyb/reobject",
+    "stars": 77,
+    "forks": 3
+  },
+  {
+    "author": "persephone-tools",
+    "repo": "persephone",
+    "repoUrl": "https://github.com/persephone-tools/persephone",
+    "stars": 73,
+    "forks": 12
+  },
+  {
+    "author": "kalaspuff",
+    "repo": "tomodachi",
+    "repoUrl": "https://github.com/kalaspuff/tomodachi",
+    "stars": 70,
+    "forks": 14
+  },
+  {
+    "author": "scivision",
+    "repo": "georinex",
+    "repoUrl": "https://github.com/scivision/georinex",
+    "stars": 69,
+    "forks": 39
+  },
+  {
+    "author": "allenai",
+    "repo": "vampire",
+    "repoUrl": "https://github.com/allenai/vampire",
+    "stars": 69,
+    "forks": 11
+  },
+  {
+    "author": "terrencepreilly",
+    "repo": "darglint",
+    "repoUrl": "https://github.com/terrencepreilly/darglint",
+    "stars": 68,
+    "forks": 8
+  },
+  {
+    "author": "fish2000",
+    "repo": "instakit",
+    "repoUrl": "https://github.com/fish2000/instakit",
+    "stars": 67,
+    "forks": 5
+  },
+  {
+    "author": "nnadeau",
+    "repo": "pybotics",
+    "repoUrl": "https://github.com/nnadeau/pybotics",
+    "stars": 67,
+    "forks": 13
+  },
+  {
+    "author": "seddonym",
+    "repo": "layer_linter",
+    "repoUrl": "https://github.com/seddonym/layer_linter",
+    "stars": 66,
+    "forks": 4
+  },
+  {
+    "author": "nabla-c0d3",
+    "repo": "trust_stores_observatory",
+    "repoUrl": "https://github.com/nabla-c0d3/trust_stores_observatory",
+    "stars": 66,
+    "forks": 7
+  },
+  {
+    "author": "dropbox",
+    "repo": "merou",
+    "repoUrl": "https://github.com/dropbox/merou",
+    "stars": 66,
+    "forks": 29
+  },
+  {
+    "author": "numberoverzero",
+    "repo": "bottom",
+    "repoUrl": "https://github.com/numberoverzero/bottom",
+    "stars": 64,
+    "forks": 16
+  },
+  {
+    "author": "Bogdanp",
+    "repo": "web-app-from-scratch",
+    "repoUrl": "https://github.com/Bogdanp/web-app-from-scratch",
+    "stars": 64,
+    "forks": 6
+  },
+  {
+    "author": "lamenezes",
+    "repo": "simple-model",
+    "repoUrl": "https://github.com/lamenezes/simple-model",
+    "stars": 64,
+    "forks": 12
+  },
+  {
+    "author": "funkyfuture",
+    "repo": "deck-chores",
+    "repoUrl": "https://github.com/funkyfuture/deck-chores",
+    "stars": 63,
+    "forks": 7
+  },
+  {
+    "author": "dmfigol",
+    "repo": "network-programmability-stream",
+    "repoUrl": "https://github.com/dmfigol/network-programmability-stream",
+    "stars": 60,
+    "forks": 19
+  },
+  {
+    "author": "lyft",
+    "repo": "amundsenmetadatalibrary",
+    "repoUrl": "https://github.com/lyft/amundsenmetadatalibrary",
+    "stars": 58,
+    "forks": 31
+  },
+  {
+    "author": "AsynkronIT",
+    "repo": "protoactor-python",
+    "repoUrl": "https://github.com/AsynkronIT/protoactor-python",
+    "stars": 57,
+    "forks": 11
+  },
+  {
+    "author": "woefe",
+    "repo": "ytcc",
+    "repoUrl": "https://github.com/woefe/ytcc",
+    "stars": 55,
+    "forks": 5
+  },
+  {
+    "author": "jrobichaud",
+    "repo": "django-structlog",
+    "repoUrl": "https://github.com/jrobichaud/django-structlog",
+    "stars": 55,
+    "forks": 3
+  },
+  {
+    "author": "kinnala",
+    "repo": "scikit-fem",
+    "repoUrl": "https://github.com/kinnala/scikit-fem",
+    "stars": 54,
+    "forks": 10
+  },
+  {
+    "author": "mozilla",
+    "repo": "release-services",
+    "repoUrl": "https://github.com/mozilla/release-services",
+    "stars": 54,
+    "forks": 105
+  },
+  {
+    "author": "s-knibbs",
+    "repo": "dataclasses-jsonschema",
+    "repoUrl": "https://github.com/s-knibbs/dataclasses-jsonschema",
+    "stars": 53,
+    "forks": 10
+  },
+  {
+    "author": "semiversus",
+    "repo": "python-broqer",
+    "repoUrl": "https://github.com/semiversus/python-broqer",
+    "stars": 53,
+    "forks": 3
+  },
+  {
+    "author": "fnl",
+    "repo": "syntok",
+    "repoUrl": "https://github.com/fnl/syntok",
+    "stars": 52,
+    "forks": 9
+  },
+  {
+    "author": "structurely",
+    "repo": "ecs-autoscale",
+    "repoUrl": "https://github.com/structurely/ecs-autoscale",
+    "stars": 51,
+    "forks": 4
+  },
+  {
+    "author": "CharlesBlonde",
+    "repo": "libsoundtouch",
+    "repoUrl": "https://github.com/CharlesBlonde/libsoundtouch",
+    "stars": 49,
+    "forks": 17
+  },
+  {
+    "author": "AWConant",
+    "repo": "jikanpy",
+    "repoUrl": "https://github.com/AWConant/jikanpy",
+    "stars": 49,
+    "forks": 11
+  },
+  {
+    "author": "r-bioinformatics",
+    "repo": "edgePy",
+    "repoUrl": "https://github.com/r-bioinformatics/edgePy",
+    "stars": 49,
+    "forks": 8
+  },
+  {
+    "author": "jasperges",
+    "repo": "pose-thumbnails",
+    "repoUrl": "https://github.com/jasperges/pose-thumbnails",
+    "stars": 48,
+    "forks": 11
+  },
+  {
+    "author": "uclanlp",
+    "repo": "visualbert",
+    "repoUrl": "https://github.com/uclanlp/visualbert",
+    "stars": 48,
+    "forks": 5
+  },
+  {
+    "author": "dfee",
+    "repo": "forge",
+    "repoUrl": "https://github.com/dfee/forge",
+    "stars": 47,
+    "forks": 1
+  },
+  {
+    "author": "ljvmiranda921",
+    "repo": "seagull",
+    "repoUrl": "https://github.com/ljvmiranda921/seagull",
+    "stars": 47,
+    "forks": 5
+  },
+  {
+    "author": "spacegraphcats",
+    "repo": "spacegraphcats",
+    "repoUrl": "https://github.com/spacegraphcats/spacegraphcats",
+    "stars": 47,
+    "forks": 6
+  },
+  {
+    "author": "AstroMatt",
+    "repo": "book-python",
+    "repoUrl": "https://github.com/AstroMatt/book-python",
+    "stars": 46,
+    "forks": 18
+  },
+  {
+    "author": "miyakogi",
+    "repo": "wdom",
+    "repoUrl": "https://github.com/miyakogi/wdom",
+    "stars": 45,
+    "forks": 6
+  },
+  {
+    "author": "treasure-data",
+    "repo": "treasure-boxes",
+    "repoUrl": "https://github.com/treasure-data/treasure-boxes",
+    "stars": 45,
+    "forks": 33
+  },
+  {
+    "author": "walles",
+    "repo": "px",
+    "repoUrl": "https://github.com/walles/px",
+    "stars": 45,
+    "forks": 6
+  },
+  {
+    "author": "bincyber",
+    "repo": "pkictl",
+    "repoUrl": "https://github.com/bincyber/pkictl",
+    "stars": 45,
+    "forks": 3
+  },
+  {
+    "author": "danobot",
+    "repo": "entity-controller",
+    "repoUrl": "https://github.com/danobot/entity-controller",
+    "stars": 44,
+    "forks": 10
+  },
+  {
+    "author": "revmischa",
+    "repo": "cloudcam",
+    "repoUrl": "https://github.com/revmischa/cloudcam",
+    "stars": 42,
+    "forks": 9
+  },
+  {
+    "author": "web-platform-tests",
+    "repo": "wpt.fyi",
+    "repoUrl": "https://github.com/web-platform-tests/wpt.fyi",
+    "stars": 42,
+    "forks": 21
+  },
+  {
+    "author": "tomv564",
+    "repo": "pyls-mypy",
+    "repoUrl": "https://github.com/tomv564/pyls-mypy",
+    "stars": 42,
+    "forks": 9
+  },
+  {
+    "author": "adamcharnock",
+    "repo": "lightbus",
+    "repoUrl": "https://github.com/adamcharnock/lightbus",
+    "stars": 41,
+    "forks": 6
+  },
+  {
+    "author": "c-w",
+    "repo": "gutenberg-http",
+    "repoUrl": "https://github.com/c-w/gutenberg-http",
+    "stars": 41,
+    "forks": 6
+  },
+  {
+    "author": "Jigsaw-Code",
+    "repo": "net-analysis",
+    "repoUrl": "https://github.com/Jigsaw-Code/net-analysis",
+    "stars": 40,
+    "forks": 11
+  },
+  {
+    "author": "frostming",
+    "repo": "Flog",
+    "repoUrl": "https://github.com/frostming/Flog",
+    "stars": 40,
+    "forks": 10
+  },
+  {
+    "author": "karma0",
+    "repo": "nombot",
+    "repoUrl": "https://github.com/karma0/nombot",
+    "stars": 40,
+    "forks": 4
+  },
+  {
+    "author": "Minyus",
+    "repo": "causallift",
+    "repoUrl": "https://github.com/Minyus/causallift",
+    "stars": 40,
+    "forks": 6
+  },
+  {
+    "author": "redzej",
+    "repo": "graphene-permissions",
+    "repoUrl": "https://github.com/redzej/graphene-permissions",
+    "stars": 40,
+    "forks": 4
+  },
+  {
+    "author": "UncleGoogle",
+    "repo": "galaxy-integration-humblebundle",
+    "repoUrl": "https://github.com/UncleGoogle/galaxy-integration-humblebundle",
+    "stars": 39,
+    "forks": 2
+  },
+  {
+    "author": "lyft",
+    "repo": "amundsensearchlibrary",
+    "repoUrl": "https://github.com/lyft/amundsensearchlibrary",
+    "stars": 39,
+    "forks": 30
+  },
+  {
+    "author": "tiangolo",
+    "repo": "uvicorn-gunicorn-docker",
+    "repoUrl": "https://github.com/tiangolo/uvicorn-gunicorn-docker",
+    "stars": 39,
+    "forks": 15
+  },
+  {
+    "author": "webrecorder",
+    "repo": "browsertrix",
+    "repoUrl": "https://github.com/webrecorder/browsertrix",
+    "stars": 39,
+    "forks": 3
+  },
+  {
+    "author": "miniCruzer",
+    "repo": "mini-key-server",
+    "repoUrl": "https://github.com/miniCruzer/mini-key-server",
+    "stars": 39,
+    "forks": 17
+  },
+  {
+    "author": "kokokuo",
+    "repo": "scraper-fourone-jobs",
+    "repoUrl": "https://github.com/kokokuo/scraper-fourone-jobs",
+    "stars": 39,
+    "forks": 8
+  },
+  {
+    "author": "abilian",
+    "repo": "abilian-core",
+    "repoUrl": "https://github.com/abilian/abilian-core",
+    "stars": 39,
+    "forks": 8
+  },
+  {
+    "author": "ClearcodeHQ",
+    "repo": "mirakuru",
+    "repoUrl": "https://github.com/ClearcodeHQ/mirakuru",
+    "stars": 37,
+    "forks": 24
+  },
+  {
+    "author": "melizeche",
+    "repo": "listaHu",
+    "repoUrl": "https://github.com/melizeche/listaHu",
+    "stars": 37,
+    "forks": 3
+  },
+  {
+    "author": "Pylons",
+    "repo": "pyramid_openapi3",
+    "repoUrl": "https://github.com/Pylons/pyramid_openapi3",
+    "stars": 37,
+    "forks": 7
+  },
+  {
+    "author": "dvhb",
+    "repo": "dvhb-hybrid",
+    "repoUrl": "https://github.com/dvhb/dvhb-hybrid",
+    "stars": 37,
+    "forks": 5
+  },
+  {
+    "author": "justinmoon",
+    "repo": "bitcoincorps",
+    "repoUrl": "https://github.com/justinmoon/bitcoincorps",
+    "stars": 36,
+    "forks": 17
+  },
+  {
+    "author": "Eerovil",
+    "repo": "TrackLater",
+    "repoUrl": "https://github.com/Eerovil/TrackLater",
+    "stars": 36,
+    "forks": 1
+  },
+  {
+    "author": "Mirantis",
+    "repo": "disk_perf_test_tool",
+    "repoUrl": "https://github.com/Mirantis/disk_perf_test_tool",
+    "stars": 35,
+    "forks": 19
+  },
+  {
+    "author": "bethgelab",
+    "repo": "decompose",
+    "repoUrl": "https://github.com/bethgelab/decompose",
+    "stars": 34,
+    "forks": 7
+  },
+  {
+    "author": "raiden-network",
+    "repo": "raiden-contracts",
+    "repoUrl": "https://github.com/raiden-network/raiden-contracts",
+    "stars": 34,
+    "forks": 32
+  },
+  {
+    "author": "jspahrsummers",
+    "repo": "adt",
+    "repoUrl": "https://github.com/jspahrsummers/adt",
+    "stars": 34,
+    "forks": 0
+  },
+  {
+    "author": "NervanaSystems",
+    "repo": "ngraph-onnx",
+    "repoUrl": "https://github.com/NervanaSystems/ngraph-onnx",
+    "stars": 34,
+    "forks": 17
+  },
+  {
+    "author": "Qiskit",
+    "repo": "qiskit-ibmq-provider",
+    "repoUrl": "https://github.com/Qiskit/qiskit-ibmq-provider",
+    "stars": 33,
+    "forks": 32
+  },
+  {
+    "author": "GNOME",
+    "repo": "cantarell-fonts",
+    "repoUrl": "https://github.com/GNOME/cantarell-fonts",
+    "stars": 33,
+    "forks": 8
+  },
+  {
+    "author": "HumanCellAtlas",
+    "repo": "data-store",
+    "repoUrl": "https://github.com/HumanCellAtlas/data-store",
+    "stars": 32,
+    "forks": 10
+  },
+  {
+    "author": "microsoft",
+    "repo": "agogosml",
+    "repoUrl": "https://github.com/microsoft/agogosml",
+    "stars": 32,
+    "forks": 12
+  },
+  {
+    "author": "justanr",
+    "repo": "marshmallow-annotations",
+    "repoUrl": "https://github.com/justanr/marshmallow-annotations",
+    "stars": 32,
+    "forks": 4
+  },
+  {
+    "author": "wilfredinni",
+    "repo": "coo",
+    "repoUrl": "https://github.com/wilfredinni/coo",
+    "stars": 32,
+    "forks": 2
+  },
+  {
+    "author": "maximumstock",
+    "repo": "poe-currency-flip-planner",
+    "repoUrl": "https://github.com/maximumstock/poe-currency-flip-planner",
+    "stars": 32,
+    "forks": 6
+  },
+  {
+    "author": "space-physics",
+    "repo": "lowtran",
+    "repoUrl": "https://github.com/space-physics/lowtran",
+    "stars": 31,
+    "forks": 16
+  },
+  {
+    "author": "davidhamann",
+    "repo": "python-fmrest",
+    "repoUrl": "https://github.com/davidhamann/python-fmrest",
+    "stars": 31,
+    "forks": 8
+  },
+  {
+    "author": "DrSensor",
+    "repo": "scdlang",
+    "repoUrl": "https://github.com/DrSensor/scdlang",
+    "stars": 31,
+    "forks": 0
+  },
+  {
+    "author": "Zac-HD",
+    "repo": "hypothesis-jsonschema",
+    "repoUrl": "https://github.com/Zac-HD/hypothesis-jsonschema",
+    "stars": 31,
+    "forks": 4
+  },
+  {
+    "author": "quantmind",
+    "repo": "ccy",
+    "repoUrl": "https://github.com/quantmind/ccy",
+    "stars": 30,
+    "forks": 15
+  },
+  {
+    "author": "claws",
+    "repo": "aioprometheus",
+    "repoUrl": "https://github.com/claws/aioprometheus",
+    "stars": 30,
+    "forks": 3
+  },
+  {
+    "author": "scivision",
+    "repo": "pyimagevideo",
+    "repoUrl": "https://github.com/scivision/pyimagevideo",
+    "stars": 30,
+    "forks": 13
+  },
+  {
+    "author": "seanpar203",
+    "repo": "event-bus",
+    "repoUrl": "https://github.com/seanpar203/event-bus",
+    "stars": 30,
+    "forks": 8
+  },
+  {
+    "author": "tiangolo",
+    "repo": "full-stack-flask-couchbase",
+    "repoUrl": "https://github.com/tiangolo/full-stack-flask-couchbase",
+    "stars": 30,
+    "forks": 5
+  },
+  {
+    "author": "dmulcahey",
+    "repo": "zha-device-handlers",
+    "repoUrl": "https://github.com/dmulcahey/zha-device-handlers",
+    "stars": 29,
+    "forks": 22
+  },
+  {
+    "author": "BBVA",
+    "repo": "apicheck",
+    "repoUrl": "https://github.com/BBVA/apicheck",
+    "stars": 29,
+    "forks": 10
+  },
+  {
+    "author": "bocadilloproject",
+    "repo": "aiodine",
+    "repoUrl": "https://github.com/bocadilloproject/aiodine",
+    "stars": 29,
+    "forks": 0
+  },
+  {
+    "author": "asvetlov",
+    "repo": "us-pycon-2019-tutorial",
+    "repoUrl": "https://github.com/asvetlov/us-pycon-2019-tutorial",
+    "stars": 29,
+    "forks": 7
+  },
+  {
+    "author": "ilevkivskyi",
+    "repo": "com2ann",
+    "repoUrl": "https://github.com/ilevkivskyi/com2ann",
+    "stars": 29,
+    "forks": 0
+  },
+  {
+    "author": "originell",
+    "repo": "sorl-watermark",
+    "repoUrl": "https://github.com/originell/sorl-watermark",
+    "stars": 28,
+    "forks": 24
+  },
+  {
+    "author": "bresan",
+    "repo": "entity_embeddings_categorical",
+    "repoUrl": "https://github.com/bresan/entity_embeddings_categorical",
+    "stars": 28,
+    "forks": 8
+  },
+  {
+    "author": "floscha",
+    "repo": "tinycards-python-api",
+    "repoUrl": "https://github.com/floscha/tinycards-python-api",
+    "stars": 28,
+    "forks": 7
+  },
+  {
+    "author": "Mayandev",
+    "repo": "django_morec",
+    "repoUrl": "https://github.com/Mayandev/django_morec",
+    "stars": 28,
+    "forks": 10
+  },
+  {
+    "author": "B2W-BIT",
+    "repo": "async-worker",
+    "repoUrl": "https://github.com/B2W-BIT/async-worker",
+    "stars": 27,
+    "forks": 8
+  },
+  {
+    "author": "Chatie",
+    "repo": "python-wechaty",
+    "repoUrl": "https://github.com/Chatie/python-wechaty",
+    "stars": 27,
+    "forks": 7
+  },
+  {
+    "author": "ambv",
+    "repo": "flake8-mypy",
+    "repoUrl": "https://github.com/ambv/flake8-mypy",
+    "stars": 27,
+    "forks": 8
+  },
+  {
+    "author": "gigamonkey",
+    "repo": "scheduler",
+    "repoUrl": "https://github.com/gigamonkey/scheduler",
+    "stars": 26,
+    "forks": 2
+  },
+  {
+    "author": "pyslackers",
+    "repo": "slack-sansio",
+    "repoUrl": "https://github.com/pyslackers/slack-sansio",
+    "stars": 26,
+    "forks": 8
+  },
+  {
+    "author": "snipsco",
+    "repo": "hermes-protocol",
+    "repoUrl": "https://github.com/snipsco/hermes-protocol",
+    "stars": 26,
+    "forks": 4
+  },
+  {
+    "author": "humu",
+    "repo": "heapprof",
+    "repoUrl": "https://github.com/humu/heapprof",
+    "stars": 23,
+    "forks": 1
+  },
+  {
+    "author": "ActivityWatch",
+    "repo": "aw-server",
+    "repoUrl": "https://github.com/ActivityWatch/aw-server",
+    "stars": 23,
+    "forks": 9
+  },
+  {
+    "author": "Ajapaik",
+    "repo": "ajapaik-web",
+    "repoUrl": "https://github.com/Ajapaik/ajapaik-web",
+    "stars": 22,
+    "forks": 10
+  },
+  {
+    "author": "gatkin",
+    "repo": "declxml",
+    "repoUrl": "https://github.com/gatkin/declxml",
+    "stars": 21,
+    "forks": 2
+  },
+  {
+    "author": "huggingface",
+    "repo": "adversarialnlp",
+    "repoUrl": "https://github.com/huggingface/adversarialnlp",
+    "stars": 20,
+    "forks": 0
+  },
+  {
+    "author": "apertium",
+    "repo": "apertium-apy",
+    "repoUrl": "https://github.com/apertium/apertium-apy",
+    "stars": 19,
+    "forks": 24
+  },
+  {
+    "author": "bankroll-py",
+    "repo": "bankroll",
+    "repoUrl": "https://github.com/bankroll-py/bankroll",
+    "stars": 18,
+    "forks": 1
+  },
+  {
+    "author": "arXiv",
+    "repo": "arxiv-browse",
+    "repoUrl": "https://github.com/arXiv/arxiv-browse",
+    "stars": 18,
+    "forks": 6
+  },
+  {
+    "author": "Geoportail-Luxembourg",
+    "repo": "geoportailv3",
+    "repoUrl": "https://github.com/Geoportail-Luxembourg/geoportailv3",
+    "stars": 16,
+    "forks": 9
+  },
+  {
+    "author": "datatheorem",
+    "repo": "flake8-alfred",
+    "repoUrl": "https://github.com/datatheorem/flake8-alfred",
+    "stars": 16,
+    "forks": 2
+  },
+  {
+    "author": "Hiroshiba",
+    "repo": "hihobot",
+    "repoUrl": "https://github.com/Hiroshiba/hihobot",
+    "stars": 16,
+    "forks": 2
+  },
+  {
+    "author": "jamiebull1",
+    "repo": "geomeppy",
+    "repoUrl": "https://github.com/jamiebull1/geomeppy",
+    "stars": 16,
+    "forks": 5
+  },
+  {
+    "author": "scivision",
+    "repo": "findssh",
+    "repoUrl": "https://github.com/scivision/findssh",
+    "stars": 16,
+    "forks": 2
+  },
+  {
+    "author": "unchained-capital",
+    "repo": "hermit",
+    "repoUrl": "https://github.com/unchained-capital/hermit",
+    "stars": 15,
+    "forks": 4
+  },
+  {
+    "author": "geneontology",
+    "repo": "go-site",
+    "repoUrl": "https://github.com/geneontology/go-site",
+    "stars": 14,
+    "forks": 75
+  },
+  {
+    "author": "ludeeus",
+    "repo": "googledevices",
+    "repoUrl": "https://github.com/ludeeus/googledevices",
+    "stars": 14,
+    "forks": 1
+  },
+  {
+    "author": "albertyw",
+    "repo": "git-reviewers",
+    "repoUrl": "https://github.com/albertyw/git-reviewers",
+    "stars": 12,
+    "forks": 2
+  },
+  {
+    "author": "ErikBjare",
+    "repo": "chatalysis",
+    "repoUrl": "https://github.com/ErikBjare/chatalysis",
+    "stars": 12,
+    "forks": 0
+  },
+  {
+    "author": "twitter",
+    "repo": "caladrius",
+    "repoUrl": "https://github.com/twitter/caladrius",
+    "stars": 12,
+    "forks": 3
+  },
+  {
+    "author": "rmyers",
+    "repo": "cannula",
+    "repoUrl": "https://github.com/rmyers/cannula",
+    "stars": 12,
+    "forks": 0
+  },
+  {
+    "author": "best-doctor",
+    "repo": "flake8-variables-names",
+    "repoUrl": "https://github.com/best-doctor/flake8-variables-names",
+    "stars": 10,
+    "forks": 2
+  },
+  {
+    "author": "MeGotsThis",
+    "repo": "Hanabi-AI",
+    "repoUrl": "https://github.com/MeGotsThis/Hanabi-AI",
+    "stars": 10,
+    "forks": 3
+  },
+  {
+    "author": "armadillica",
+    "repo": "flamenco-worker-python",
+    "repoUrl": "https://github.com/armadillica/flamenco-worker-python",
+    "stars": 9,
+    "forks": 0
+  },
+  {
+    "author": "JockeTF",
+    "repo": "fimfarchive",
+    "repoUrl": "https://github.com/JockeTF/fimfarchive",
+    "stars": 9,
+    "forks": 0
+  },
+  {
+    "author": "n8henrie",
+    "repo": "fauxmo-plugins",
+    "repoUrl": "https://github.com/n8henrie/fauxmo-plugins",
+    "stars": 9,
+    "forks": 5
+  },
+  {
+    "author": "PnX-SI",
+    "repo": "GeoNature-citizen",
+    "repoUrl": "https://github.com/PnX-SI/GeoNature-citizen",
+    "stars": 9,
+    "forks": 6
+  },
+  {
+    "author": "jabbalaci",
+    "repo": "JiVE-Image-Viewer",
+    "repoUrl": "https://github.com/jabbalaci/JiVE-Image-Viewer",
+    "stars": 9,
+    "forks": 1
+  },
+  {
+    "author": "dvndrsn",
+    "repo": "graphql-python-tutorial",
+    "repoUrl": "https://github.com/dvndrsn/graphql-python-tutorial",
+    "stars": 8,
+    "forks": 5
+  },
+  {
+    "author": "MD-Studio",
+    "repo": "cerise",
+    "repoUrl": "https://github.com/MD-Studio/cerise",
+    "stars": 7,
+    "forks": 2
+  },
+  {
+    "author": "djbrown",
+    "repo": "hbscorez",
+    "repoUrl": "https://github.com/djbrown/hbscorez",
+    "stars": 7,
+    "forks": 1
+  },
+  {
+    "author": "NRCan",
+    "repo": "energuide_api",
+    "repoUrl": "https://github.com/NRCan/energuide_api",
+    "stars": 7,
+    "forks": 5
+  },
+  {
+    "author": "ttsiodras",
+    "repo": "DataModellingTools",
+    "repoUrl": "https://github.com/ttsiodras/DataModellingTools",
+    "stars": 7,
+    "forks": 5
+  },
+  {
+    "author": "d2207197",
+    "repo": "carriage",
+    "repoUrl": "https://github.com/d2207197/carriage",
+    "stars": 7,
+    "forks": 1
+  },
+  {
+    "author": "CarlBeek",
+    "repo": "CBC_LMD",
+    "repoUrl": "https://github.com/CarlBeek/CBC_LMD",
+    "stars": 6,
+    "forks": 1
+  },
+  {
+    "author": "fish2000",
+    "repo": "halogen",
+    "repoUrl": "https://github.com/fish2000/halogen",
+    "stars": 6,
+    "forks": 0
+  },
+  {
+    "author": "equinor",
+    "repo": "gordo-components",
+    "repoUrl": "https://github.com/equinor/gordo-components",
+    "stars": 5,
+    "forks": 10
+  },
+  {
+    "author": "camptocamp",
+    "repo": "c2cwsgiutils",
+    "repoUrl": "https://github.com/camptocamp/c2cwsgiutils",
+    "stars": 5,
+    "forks": 2
+  },
+  {
+    "author": "ivanPrunier",
+    "repo": "festivals_planner_api",
+    "repoUrl": "https://github.com/ivanPrunier/festivals_planner_api",
+    "stars": 5,
+    "forks": 0
+  },
+  {
+    "author": "MD-Studio",
+    "repo": "cerulean",
+    "repoUrl": "https://github.com/MD-Studio/cerulean",
+    "stars": 5,
+    "forks": 0
+  },
+  {
+    "author": "LayerXcom",
+    "repo": "cbc-casper-simulator",
+    "repoUrl": "https://github.com/LayerXcom/cbc-casper-simulator",
+    "stars": 5,
+    "forks": 1
+  },
+  {
+    "author": "andylockran",
+    "repo": "heatmiserV3",
+    "repoUrl": "https://github.com/andylockran/heatmiserV3",
+    "stars": 5,
+    "forks": 5
+  },
+  {
+    "author": "best-doctor",
+    "repo": "flake8-class-attributes-order",
+    "repoUrl": "https://github.com/best-doctor/flake8-class-attributes-order",
+    "stars": 5,
+    "forks": 1
+  },
+  {
+    "author": "alysivji",
+    "repo": "falcon-batteries-included",
+    "repoUrl": "https://github.com/alysivji/falcon-batteries-included",
+    "stars": 5,
+    "forks": 2
+  },
+  {
+    "author": "mverteuil",
+    "repo": "barbara",
+    "repoUrl": "https://github.com/mverteuil/barbara",
+    "stars": 5,
+    "forks": 1
+  },
+  {
+    "author": "marius92mc",
+    "repo": "github-stargazers",
+    "repoUrl": "https://github.com/marius92mc/github-stargazers",
+    "stars": 5,
+    "forks": 2
+  },
+  {
+    "author": "bryanforbes",
+    "repo": "Erasmus",
+    "repoUrl": "https://github.com/bryanforbes/Erasmus",
+    "stars": 5,
+    "forks": 1
+  },
+  {
+    "author": "revolut-engineering",
+    "repo": "data-libs",
+    "repoUrl": "https://github.com/revolut-engineering/data-libs",
+    "stars": 5,
+    "forks": 4
+  },
+  {
+    "author": "Vesihiisi",
+    "repo": "Hauki",
+    "repoUrl": "https://github.com/Vesihiisi/Hauki",
+    "stars": 5,
+    "forks": 1
+  },
+  {
+    "author": "mbforbes",
+    "repo": "git-checker",
+    "repoUrl": "https://github.com/mbforbes/git-checker",
+    "stars": 4,
+    "forks": 1
+  },
+  {
+    "author": "JasonMWhite",
+    "repo": "gitlawca-runner",
+    "repoUrl": "https://github.com/JasonMWhite/gitlawca-runner",
+    "stars": 4,
+    "forks": 0
+  },
+  {
+    "author": "SectorLabs",
+    "repo": "heroku-rectifier",
+    "repoUrl": "https://github.com/SectorLabs/heroku-rectifier",
+    "stars": 4,
+    "forks": 0
+  },
+  {
+    "author": "unmade",
+    "repo": "cyprety-rental-bot",
+    "repoUrl": "https://github.com/unmade/cyprety-rental-bot",
+    "stars": 4,
+    "forks": 0
+  },
+  {
+    "author": "kevinywlui",
+    "repo": "caleb",
+    "repoUrl": "https://github.com/kevinywlui/caleb",
+    "stars": 4,
+    "forks": 0
+  },
+  {
+    "author": "JohnVillalovos",
+    "repo": "hardlinkpy",
+    "repoUrl": "https://github.com/JohnVillalovos/hardlinkpy",
+    "stars": 3,
+    "forks": 1
+  },
+  {
+    "author": "sjquant",
+    "repo": "engster-server",
+    "repoUrl": "https://github.com/sjquant/engster-server",
+    "stars": 3,
+    "forks": 0
+  },
+  {
+    "author": "chrismaille",
+    "repo": "cabrita",
+    "repoUrl": "https://github.com/chrismaille/cabrita",
+    "stars": 3,
+    "forks": 0
+  },
+  {
+    "author": "basilisp-lang",
+    "repo": "basilisp",
+    "repoUrl": "https://github.com/basilisp-lang/basilisp",
+    "stars": 3,
+    "forks": 0
+  },
+  {
+    "author": "chrishannam",
+    "repo": "hippocrates",
+    "repoUrl": "https://github.com/chrishannam/hippocrates",
+    "stars": 3,
+    "forks": 0
+  },
+  {
+    "author": "fantasy-anime-league",
+    "repo": "fantasy-anime-league",
+    "repoUrl": "https://github.com/fantasy-anime-league/fantasy-anime-league",
+    "stars": 3,
+    "forks": 1
+  },
+  {
+    "author": "best-doctor",
+    "repo": "flake8-adjustable-complexity",
+    "repoUrl": "https://github.com/best-doctor/flake8-adjustable-complexity",
+    "stars": 3,
+    "forks": 1
+  },
+  {
+    "author": "cinemanio",
+    "repo": "backend",
+    "repoUrl": "https://github.com/cinemanio/backend",
+    "stars": 3,
+    "forks": 0
+  },
+  {
+    "author": "myslak71",
+    "repo": "flake8-koles",
+    "repoUrl": "https://github.com/myslak71/flake8-koles",
+    "stars": 3,
+    "forks": 0
+  },
+  {
+    "author": "doismellburning",
+    "repo": "emporium",
+    "repoUrl": "https://github.com/doismellburning/emporium",
+    "stars": 3,
+    "forks": 0
+  },
+  {
+    "author": "feluxe",
+    "repo": "gitsub",
+    "repoUrl": "https://github.com/feluxe/gitsub",
+    "stars": 3,
+    "forks": 0
+  },
+  {
+    "author": "alfalimajuliett",
+    "repo": "generations",
+    "repoUrl": "https://github.com/alfalimajuliett/generations",
+    "stars": 3,
+    "forks": 1
+  },
+  {
+    "author": "jetbridge",
+    "repo": "flask-crud",
+    "repoUrl": "https://github.com/jetbridge/flask-crud",
+    "stars": 3,
+    "forks": 1
+  },
+  {
+    "author": "Kartones",
+    "repo": "finished-games",
+    "repoUrl": "https://github.com/Kartones/finished-games",
+    "stars": 3,
+    "forks": 1
+  },
+  {
+    "author": "matthewdeanmartin",
+    "repo": "find_known_secrets",
+    "repoUrl": "https://github.com/matthewdeanmartin/find_known_secrets",
+    "stars": 3,
+    "forks": 1
+  },
+  {
+    "author": "claws",
+    "repo": "gestalt",
+    "repoUrl": "https://github.com/claws/gestalt",
+    "stars": 2,
+    "forks": 1
+  },
+  {
+    "author": "srittau",
+    "repo": "FakeSMTPd",
+    "repoUrl": "https://github.com/srittau/FakeSMTPd",
+    "stars": 2,
+    "forks": 0
+  },
+  {
+    "author": "skvl",
+    "repo": "git-privacy-manager",
+    "repoUrl": "https://github.com/skvl/git-privacy-manager",
+    "stars": 2,
+    "forks": 0
+  },
+  {
+    "author": "belbio",
+    "repo": "bel",
+    "repoUrl": "https://github.com/belbio/bel",
+    "stars": 2,
+    "forks": 2
+  },
+  {
+    "author": "Madoshakalaka",
+    "repo": "hfstol",
+    "repoUrl": "https://github.com/Madoshakalaka/hfstol",
+    "stars": 2,
+    "forks": 0
+  },
+  {
+    "author": "ivanklee86",
+    "repo": "gitsecret",
+    "repoUrl": "https://github.com/ivanklee86/gitsecret",
+    "stars": 2,
+    "forks": 0
+  },
+  {
+    "author": "impredicative",
+    "repo": "gitblobts",
+    "repoUrl": "https://github.com/impredicative/gitblobts",
+    "stars": 2,
+    "forks": 1
+  },
+  {
+    "author": "mrshannon",
+    "repo": "dataclass-builder",
+    "repoUrl": "https://github.com/mrshannon/dataclass-builder",
+    "stars": 2,
+    "forks": 2
+  },
+  {
+    "author": "Spielerr",
+    "repo": "Happy-Customers-Forever",
+    "repoUrl": "https://github.com/Spielerr/Happy-Customers-Forever",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "danielhfrank",
+    "repo": "dawg",
+    "repoUrl": "https://github.com/danielhfrank/dawg",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "unchained-capital",
+    "repo": "hashwars",
+    "repoUrl": "https://github.com/unchained-capital/hashwars",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "BNDKPNTR",
+    "repo": "EmployeeScheduler",
+    "repoUrl": "https://github.com/BNDKPNTR/EmployeeScheduler",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "marcosschroh",
+    "repo": "dataclasses-avroschema",
+    "repoUrl": "https://github.com/marcosschroh/dataclasses-avroschema",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "bitranox",
+    "repo": "fingerprint",
+    "repoUrl": "https://github.com/bitranox/fingerprint",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "kbase",
+    "repo": "CachingService",
+    "repoUrl": "https://github.com/kbase/CachingService",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "Wytamma",
+    "repo": "fasteve",
+    "repoUrl": "https://github.com/Wytamma/fasteve",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "GabrielCappelli",
+    "repo": "flask-hintful",
+    "repoUrl": "https://github.com/GabrielCappelli/flask-hintful",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "jcp",
+    "repo": "datafilter",
+    "repoUrl": "https://github.com/jcp/datafilter",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "zackmdavis",
+    "repo": "Finetooth",
+    "repoUrl": "https://github.com/zackmdavis/Finetooth",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "ScottSnapperLab",
+    "repo": "db_tools",
+    "repoUrl": "https://github.com/ScottSnapperLab/db_tools",
+    "stars": 1,
+    "forks": 3
+  },
+  {
+    "author": "axelfahy",
+    "repo": "bff",
+    "repoUrl": "https://github.com/axelfahy/bff",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "marvincolgin",
+    "repo": "data-structures-and-algorithms",
+    "repoUrl": "https://github.com/marvincolgin/data-structures-and-algorithms",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "jmfernandes",
+    "repo": "bird",
+    "repoUrl": "https://github.com/jmfernandes/bird",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "sklonely",
+    "repo": "chaos_mod_server",
+    "repoUrl": "https://github.com/sklonely/chaos_mod_server",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "ricardochaves",
+    "repo": "financeiro_bot",
+    "repoUrl": "https://github.com/ricardochaves/financeiro_bot",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "piotrek-szczygiel",
+    "repo": "bagel",
+    "repoUrl": "https://github.com/piotrek-szczygiel/bagel",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "hsz1273327",
+    "repo": "binningpy",
+    "repoUrl": "https://github.com/hsz1273327/binningpy",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "freshollie",
+    "repo": "herobrain",
+    "repoUrl": "https://github.com/freshollie/herobrain",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "belbio",
+    "repo": "bel_resources",
+    "repoUrl": "https://github.com/belbio/bel_resources",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "jflbr",
+    "repo": "fizz-buzz",
+    "repoUrl": "https://github.com/jflbr/fizz-buzz",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "18F",
+    "repo": "cg-django-uaa",
+    "repoUrl": "https://github.com/18F/cg-django-uaa",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "walnutgeek",
+    "repo": "hashstore",
+    "repoUrl": "https://github.com/walnutgeek/hashstore",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "UIUCLibrary",
+    "repo": "DCCMedusaPackager",
+    "repoUrl": "https://github.com/UIUCLibrary/DCCMedusaPackager",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "trevorbaca",
+    "repo": "harmony",
+    "repoUrl": "https://github.com/trevorbaca/harmony",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "rec",
+    "repo": "cfgs",
+    "repoUrl": "https://github.com/rec/cfgs",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "NoskovIvan",
+    "repo": "GitkoinNuCypherHackathon",
+    "repoUrl": "https://github.com/NoskovIvan/GitkoinNuCypherHackathon",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "alexshpilkin",
+    "repo": "dvrip",
+    "repoUrl": "https://github.com/alexshpilkin/dvrip",
+    "stars": 1,
+    "forks": 2
+  },
+  {
+    "author": "conanfanli",
+    "repo": "rice",
+    "repoUrl": "https://github.com/conanfanli/rice",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "kisom",
+    "repo": "graphbook",
+    "repoUrl": "https://github.com/kisom/graphbook",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "matthieugouel",
+    "repo": "gibica",
+    "repoUrl": "https://github.com/matthieugouel/gibica",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "toffi9",
+    "repo": "gifz-api",
+    "repoUrl": "https://github.com/toffi9/gifz-api",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "Abhishek-31",
+    "repo": "BitBots",
+    "repoUrl": "https://github.com/Abhishek-31/BitBots",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "sklirg",
+    "repo": "camerabag",
+    "repoUrl": "https://github.com/sklirg/camerabag",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "hkjayakumar",
+    "repo": "ghost-server",
+    "repoUrl": "https://github.com/hkjayakumar/ghost-server",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "shinjawkwang",
+    "repo": "DDrakCalendar",
+    "repoUrl": "https://github.com/shinjawkwang/DDrakCalendar",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "rakitaj",
+    "repo": "daily-programmer",
+    "repoUrl": "https://github.com/rakitaj/daily-programmer",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "biosearch",
+    "repo": "biosearch",
+    "repoUrl": "https://github.com/biosearch/biosearch",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "capnfabs",
+    "repo": "emoji-haiku",
+    "repoUrl": "https://github.com/capnfabs/emoji-haiku",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "ddionrails",
+    "repo": "ddionrails",
+    "repoUrl": "https://github.com/ddionrails/ddionrails",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "cassinyio",
+    "repo": "cassiny-spawner",
+    "repoUrl": "https://github.com/cassinyio/cassiny-spawner",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "philipCrunchboards",
+    "repo": "findings",
+    "repoUrl": "https://github.com/philipCrunchboards/findings",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "KordianD",
+    "repo": "filepy",
+    "repoUrl": "https://github.com/KordianD/filepy",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "dusansimic",
+    "repo": "hackathon2018",
+    "repoUrl": "https://github.com/dusansimic/hackathon2018",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "MarkusShepherd",
+    "repo": "flamme-rouge",
+    "repoUrl": "https://github.com/MarkusShepherd/flamme-rouge",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "mesosphere",
+    "repo": "dcos-installer-tools",
+    "repoUrl": "https://github.com/mesosphere/dcos-installer-tools",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "trevorbaca",
+    "repo": "cary",
+    "repoUrl": "https://github.com/trevorbaca/cary",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "ShadowTemplate",
+    "repo": "beautiful-python-3",
+    "repoUrl": "https://github.com/ShadowTemplate/beautiful-python-3",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "jtannas",
+    "repo": "flask-by-example",
+    "repoUrl": "https://github.com/jtannas/flask-by-example",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "cds-snc",
+    "repo": "geocoder",
+    "repoUrl": "https://github.com/cds-snc/geocoder",
+    "stars": 1,
+    "forks": 0
+  },
+  {
+    "author": "mohamedrez",
+    "repo": "graphql_demo",
+    "repoUrl": "https://github.com/mohamedrez/graphql_demo",
+    "stars": 1,
+    "forks": 1
+  },
+  {
+    "author": "kkweon",
+    "repo": "beckonjira",
+    "repoUrl": "https://github.com/kkweon/beckonjira",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "Hector-hedb12",
+    "repo": "candev_finstat",
+    "repoUrl": "https://github.com/Hector-hedb12/candev_finstat",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "futursolo",
+    "repo": "hiyori",
+    "repoUrl": "https://github.com/futursolo/hiyori",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "etcher-be",
+    "repo": "elib_miz",
+    "repoUrl": "https://github.com/etcher-be/elib_miz",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "cmanallen",
+    "repo": "flask-compose",
+    "repoUrl": "https://github.com/cmanallen/flask-compose",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "AjayShelar",
+    "repo": "CAB_Booking",
+    "repoUrl": "https://github.com/AjayShelar/CAB_Booking",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "shoppimon",
+    "repo": "figcan",
+    "repoUrl": "https://github.com/shoppimon/figcan",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "PacketFire",
+    "repo": "gemini",
+    "repoUrl": "https://github.com/PacketFire/gemini",
+    "stars": 0,
+    "forks": 3
+  },
+  {
+    "author": "Lewington-pitsos",
+    "repo": "fbc",
+    "repoUrl": "https://github.com/Lewington-pitsos/fbc",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "Daesung3",
+    "repo": "Grang",
+    "repoUrl": "https://github.com/Daesung3/Grang",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "jmickey",
+    "repo": "energy-challenge",
+    "repoUrl": "https://github.com/jmickey/energy-challenge",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "msitdevops",
+    "repo": "Flask-docker-Login",
+    "repoUrl": "https://github.com/msitdevops/Flask-docker-Login",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "hammerheadlemon",
+    "repo": "bcompiler",
+    "repoUrl": "https://github.com/hammerheadlemon/bcompiler",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "MoshonkaKita",
+    "repo": "Golovastik",
+    "repoUrl": "https://github.com/MoshonkaKita/Golovastik",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "lightscalar",
+    "repo": "bioreader",
+    "repoUrl": "https://github.com/lightscalar/bioreader",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "stevanmatovic",
+    "repo": "hakalaka2018",
+    "repoUrl": "https://github.com/stevanmatovic/hakalaka2018",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "mihajlolukic12",
+    "repo": "hackathonEnergija",
+    "repoUrl": "https://github.com/mihajlolukic12/hackathonEnergija",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "kevanpng",
+    "repo": "flask-gql",
+    "repoUrl": "https://github.com/kevanpng/flask-gql",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "terzeron",
+    "repo": "FeedMaker",
+    "repoUrl": "https://github.com/terzeron/FeedMaker",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "clintval",
+    "repo": "pendant",
+    "repoUrl": "https://github.com/clintval/pendant",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "grandquista",
+    "repo": "data-structures-and-algorithms.py",
+    "repoUrl": "https://github.com/grandquista/data-structures-and-algorithms.py",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "matthewmckenna",
+    "repo": "ca682-data-visualisation",
+    "repoUrl": "https://github.com/matthewmckenna/ca682-data-visualisation",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "karlicoss",
+    "repo": "hiccup",
+    "repoUrl": "https://github.com/karlicoss/hiccup",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "Anguandia",
+    "repo": "databaseExercise",
+    "repoUrl": "https://github.com/Anguandia/databaseExercise",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "deorbit",
+    "repo": "ge",
+    "repoUrl": "https://github.com/deorbit/ge",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "dtgoitia",
+    "repo": "gphotos-upload",
+    "repoUrl": "https://github.com/dtgoitia/gphotos-upload",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "rgardner",
+    "repo": "dancingtogether",
+    "repoUrl": "https://github.com/rgardner/dancingtogether",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "Khan6452",
+    "repo": "gooutwithher",
+    "repoUrl": "https://github.com/Khan6452/gooutwithher",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "NeelamMahapatro",
+    "repo": "Health-Monitoring-System",
+    "repoUrl": "https://github.com/NeelamMahapatro/Health-Monitoring-System",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "adamrees89",
+    "repo": "CarbonEmissionSuite",
+    "repoUrl": "https://github.com/adamrees89/CarbonEmissionSuite",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "technolingo",
+    "repo": "highpy",
+    "repoUrl": "https://github.com/technolingo/highpy",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "UIUCLibrary",
+    "repo": "HathiValidate",
+    "repoUrl": "https://github.com/UIUCLibrary/HathiValidate",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "danoneata",
+    "repo": "giggle",
+    "repoUrl": "https://github.com/danoneata/giggle",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "migk153",
+    "repo": "c_insta",
+    "repoUrl": "https://github.com/migk153/c_insta",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "kishorebhatia",
+    "repo": "gemini-api-client-py",
+    "repoUrl": "https://github.com/kishorebhatia/gemini-api-client-py",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "puyomi",
+    "repo": "gostagram",
+    "repoUrl": "https://github.com/puyomi/gostagram",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "u8sand",
+    "repo": "FAIRshake",
+    "repoUrl": "https://github.com/u8sand/FAIRshake",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "jwdevantier",
+    "repo": "ghostwriter",
+    "repoUrl": "https://github.com/jwdevantier/ghostwriter",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "dougli1sqrd",
+    "repo": "bevos",
+    "repoUrl": "https://github.com/dougli1sqrd/bevos",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "floscha",
+    "repo": "featurefilter",
+    "repoUrl": "https://github.com/floscha/featurefilter",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "jaysonsantos",
+    "repo": "flash-card-generator",
+    "repoUrl": "https://github.com/jaysonsantos/flash-card-generator",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "m09",
+    "repo": "charybde",
+    "repoUrl": "https://github.com/m09/charybde",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "aless10",
+    "repo": "data-engineer-challenge",
+    "repoUrl": "https://github.com/aless10/data-engineer-challenge",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "derekkwok",
+    "repo": "channel2",
+    "repoUrl": "https://github.com/derekkwok/channel2",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "pombredanne",
+    "repo": "gitlab.com-mbarkhau-straitjacket",
+    "repoUrl": "https://github.com/pombredanne/gitlab.com-mbarkhau-straitjacket",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "drmorr0",
+    "repo": "backuppy",
+    "repoUrl": "https://github.com/drmorr0/backuppy",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "dsardelic",
+    "repo": "Battleships",
+    "repoUrl": "https://github.com/dsardelic/Battleships",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "Hiroshiba",
+    "repo": "hiroshiba_chainer_project",
+    "repoUrl": "https://github.com/Hiroshiba/hiroshiba_chainer_project",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "lalvarezguillen",
+    "repo": "eng-roi-challenge",
+    "repoUrl": "https://github.com/lalvarezguillen/eng-roi-challenge",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "mwhittaker",
+    "repo": "enforced_invariant_confluence",
+    "repoUrl": "https://github.com/mwhittaker/enforced_invariant_confluence",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "CentraleFitness",
+    "repo": "email_api",
+    "repoUrl": "https://github.com/CentraleFitness/email_api",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "kitsuyui",
+    "repo": "cachepot",
+    "repoUrl": "https://github.com/kitsuyui/cachepot",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "MarcSkovMadsen",
+    "repo": "data_models_analytics",
+    "repoUrl": "https://github.com/MarcSkovMadsen/data_models_analytics",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "mithunpaul08",
+    "repo": "decomp_attn_fever",
+    "repoUrl": "https://github.com/mithunpaul08/decomp_attn_fever",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "c-hack",
+    "repo": "C-Hack-API",
+    "repoUrl": "https://github.com/c-hack/C-Hack-API",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "PhantomGrin",
+    "repo": "bidaf-allen",
+    "repoUrl": "https://github.com/PhantomGrin/bidaf-allen",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "c74p",
+    "repo": "Capstone-SalesForecasting",
+    "repoUrl": "https://github.com/c74p/Capstone-SalesForecasting",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "pombredanne",
+    "repo": "git.zuul-ci.org-zuul",
+    "repoUrl": "https://github.com/pombredanne/git.zuul-ci.org-zuul",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "willmcmain",
+    "repo": "data-transform-prototype",
+    "repoUrl": "https://github.com/willmcmain/data-transform-prototype",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "curabase",
+    "repo": "favicon-getter",
+    "repoUrl": "https://github.com/curabase/favicon-getter",
+    "stars": 0,
+    "forks": 2
+  },
+  {
+    "author": "NoMan2000",
+    "repo": "flask-advanced",
+    "repoUrl": "https://github.com/NoMan2000/flask-advanced",
+    "stars": 0,
+    "forks": 2
+  },
+  {
+    "author": "novikas",
+    "repo": "basicpayment-api",
+    "repoUrl": "https://github.com/novikas/basicpayment-api",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "golemfactory",
+    "repo": "golem-remote",
+    "repoUrl": "https://github.com/golemfactory/golem-remote",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "GreyRook",
+    "repo": "cde-cli",
+    "repoUrl": "https://github.com/GreyRook/cde-cli",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "haneulee",
+    "repo": "gramgram",
+    "repoUrl": "https://github.com/haneulee/gramgram",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "szymanskir",
+    "repo": "Backpropagation",
+    "repoUrl": "https://github.com/szymanskir/Backpropagation",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "tir-bogo",
+    "repo": "BeoAnalyzer",
+    "repoUrl": "https://github.com/tir-bogo/BeoAnalyzer",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "doubledgedboard",
+    "repo": "gina-config",
+    "repoUrl": "https://github.com/doubledgedboard/gina-config",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "jo-tham",
+    "repo": "geosample",
+    "repoUrl": "https://github.com/jo-tham/geosample",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "shobu13",
+    "repo": "DCG_API",
+    "repoUrl": "https://github.com/shobu13/DCG_API",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "bayesbench",
+    "repo": "bayesbench",
+    "repoUrl": "https://github.com/bayesbench/bayesbench",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "Lynkzhang",
+    "repo": "Chainer-UM",
+    "repoUrl": "https://github.com/Lynkzhang/Chainer-UM",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "ayong8",
+    "repo": "data-fusion-vis",
+    "repoUrl": "https://github.com/ayong8/data-fusion-vis",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "UIUCLibrary",
+    "repo": "Hathi_Submission_Workflow",
+    "repoUrl": "https://github.com/UIUCLibrary/Hathi_Submission_Workflow",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "earlyche",
+    "repo": "gomoku",
+    "repoUrl": "https://github.com/earlyche/gomoku",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "rec",
+    "repo": "hardback",
+    "repoUrl": "https://github.com/rec/hardback",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "space-physics",
+    "repo": "histutils",
+    "repoUrl": "https://github.com/space-physics/histutils",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "AlanFoster",
+    "repo": "hackvirtualmachine",
+    "repoUrl": "https://github.com/AlanFoster/hackvirtualmachine",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "matthewdeanmartin",
+    "repo": "git_checks",
+    "repoUrl": "https://github.com/matthewdeanmartin/git_checks",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "etcher-be",
+    "repo": "elib_run",
+    "repoUrl": "https://github.com/etcher-be/elib_run",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "doramong0926",
+    "repo": "gemtown",
+    "repoUrl": "https://github.com/doramong0926/gemtown",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "TaoJianping",
+    "repo": "bbs",
+    "repoUrl": "https://github.com/TaoJianping/bbs",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "djordje2192",
+    "repo": "hackthon2017",
+    "repoUrl": "https://github.com/djordje2192/hackthon2017",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "Jackevansevo",
+    "repo": "basic-utils",
+    "repoUrl": "https://github.com/Jackevansevo/basic-utils",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "bamaxw",
+    "repo": "generic-cli",
+    "repoUrl": "https://github.com/bamaxw/generic-cli",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "HazardDede",
+    "repo": "ferien-api",
+    "repoUrl": "https://github.com/HazardDede/ferien-api",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "rec",
+    "repo": "bbcprc",
+    "repoUrl": "https://github.com/rec/bbcprc",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "slaymaker1907",
+    "repo": "baeuler",
+    "repoUrl": "https://github.com/slaymaker1907/baeuler",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "daeunii94",
+    "repo": "daeungram",
+    "repoUrl": "https://github.com/daeunii94/daeungram",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "ellvtr",
+    "repo": "ellvtr-status-page-old-fork-2",
+    "repoUrl": "https://github.com/ellvtr/ellvtr-status-page-old-fork-2",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "salimfadhley",
+    "repo": "big_smoke",
+    "repoUrl": "https://github.com/salimfadhley/big_smoke",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "ToferC",
+    "repo": "careers",
+    "repoUrl": "https://github.com/ToferC/careers",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "strongbugman",
+    "repo": "flask_demo",
+    "repoUrl": "https://github.com/strongbugman/flask_demo",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "ftzm",
+    "repo": "falcon",
+    "repoUrl": "https://github.com/ftzm/falcon",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "erclu",
+    "repo": "google-hashcode-2019-extended-final-round",
+    "repoUrl": "https://github.com/erclu/google-hashcode-2019-extended-final-round",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "KimDoHyang",
+    "repo": "healthcare2",
+    "repoUrl": "https://github.com/KimDoHyang/healthcare2",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "HeerKirov",
+    "repo": "CertificateManager",
+    "repoUrl": "https://github.com/HeerKirov/CertificateManager",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "powderflask",
+    "repo": "gls-poetry",
+    "repoUrl": "https://github.com/powderflask/gls-poetry",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "ptrhlm",
+    "repo": "ChaTa-Compare",
+    "repoUrl": "https://github.com/ptrhlm/ChaTa-Compare",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "albertoaldanar",
+    "repo": "betmatcherAPI",
+    "repoUrl": "https://github.com/albertoaldanar/betmatcherAPI",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "ProjectCheshire",
+    "repo": "graphql-python-starter",
+    "repoUrl": "https://github.com/ProjectCheshire/graphql-python-starter",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "lukeshiner",
+    "repo": "enigma",
+    "repoUrl": "https://github.com/lukeshiner/enigma",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "stefanhoelzl",
+    "repo": "fancy-dict",
+    "repoUrl": "https://github.com/stefanhoelzl/fancy-dict",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "freshollie",
+    "repo": "bacprop",
+    "repoUrl": "https://github.com/freshollie/bacprop",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "skytreader",
+    "repo": "chadow",
+    "repoUrl": "https://github.com/skytreader/chadow",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "kitsuyui",
+    "repo": "bamboo-crawler",
+    "repoUrl": "https://github.com/kitsuyui/bamboo-crawler",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "tiliado",
+    "repo": "github-labels-sync",
+    "repoUrl": "https://github.com/tiliado/github-labels-sync",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "mick-warehime",
+    "repo": "fifth_corp",
+    "repoUrl": "https://github.com/mick-warehime/fifth_corp",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "SrdjanPaunovic",
+    "repo": "Hackathon2017",
+    "repoUrl": "https://github.com/SrdjanPaunovic/Hackathon2017",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "SlonSchool",
+    "repo": "ennead",
+    "repoUrl": "https://github.com/SlonSchool/ennead",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "rickygalliani",
+    "repo": "Hanna",
+    "repoUrl": "https://github.com/rickygalliani/Hanna",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "SaritaGP",
+    "repo": "BDD",
+    "repoUrl": "https://github.com/SaritaGP/BDD",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "dtg01100",
+    "repo": "batch-file-processor",
+    "repoUrl": "https://github.com/dtg01100/batch-file-processor",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "jtmiclat",
+    "repo": "flask_shorten",
+    "repoUrl": "https://github.com/jtmiclat/flask_shorten",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "charmoniumQ",
+    "repo": "charmonium.cache",
+    "repoUrl": "https://github.com/charmoniumQ/charmonium.cache",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "srittau",
+    "repo": "dbupgrade",
+    "repoUrl": "https://github.com/srittau/dbupgrade",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "crush",
+    "repo": "daylight",
+    "repoUrl": "https://github.com/crush/daylight",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "rastislavpapco",
+    "repo": "hdd-recovery",
+    "repoUrl": "https://github.com/rastislavpapco/hdd-recovery",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "AlexanderBarrera",
+    "repo": "BDgrupo",
+    "repoUrl": "https://github.com/AlexanderBarrera/BDgrupo",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "ivancarrancho",
+    "repo": "BigData",
+    "repoUrl": "https://github.com/ivancarrancho/BigData",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "stevanmatovic",
+    "repo": "hakalaka",
+    "repoUrl": "https://github.com/stevanmatovic/hakalaka",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "taleldayekh",
+    "repo": "biancabasan.com",
+    "repoUrl": "https://github.com/taleldayekh/biancabasan.com",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "yukihiko-shinoda",
+    "repo": "fixture-file-handler",
+    "repoUrl": "https://github.com/yukihiko-shinoda/fixture-file-handler",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "harrison-aw",
+    "repo": "daydream3.5e",
+    "repoUrl": "https://github.com/harrison-aw/daydream3.5e",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "hammerheadlemon",
+    "repo": "bcompiler-engine",
+    "repoUrl": "https://github.com/hammerheadlemon/bcompiler-engine",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "kapilt",
+    "repo": "gittersearch",
+    "repoUrl": "https://github.com/kapilt/gittersearch",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "silasary",
+    "repo": "HiDanni",
+    "repoUrl": "https://github.com/silasary/HiDanni",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "codeforcat",
+    "repo": "catbot-toolbox",
+    "repoUrl": "https://github.com/codeforcat/catbot-toolbox",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "savioabuga",
+    "repo": "MyPy",
+    "repoUrl": "https://github.com/savioabuga/MyPy",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "lievi",
+    "repo": "dbit",
+    "repoUrl": "https://github.com/lievi/dbit",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "e20co",
+    "repo": "helper-python-package",
+    "repoUrl": "https://github.com/e20co/helper-python-package",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "ki4070ma",
+    "repo": "change-passwd-func",
+    "repoUrl": "https://github.com/ki4070ma/change-passwd-func",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "hrsma2i",
+    "repo": "chainerdml",
+    "repoUrl": "https://github.com/hrsma2i/chainerdml",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "JosXa",
+    "repo": "GetAltsClient",
+    "repoUrl": "https://github.com/JosXa/GetAltsClient",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "and-semakin",
+    "repo": "hh_update_bot",
+    "repoUrl": "https://github.com/and-semakin/hh_update_bot",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "petepall",
+    "repo": "flask_social_network",
+    "repoUrl": "https://github.com/petepall/flask_social_network",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "TAUFEEQ1",
+    "repo": "geovis",
+    "repoUrl": "https://github.com/TAUFEEQ1/geovis",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "InsightDataScienceCodingChallenge",
+    "repo": "DataInsight",
+    "repoUrl": "https://github.com/InsightDataScienceCodingChallenge/DataInsight",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "peruguanvesh",
+    "repo": "DataInsight_BootCampProject-Pharmacy_Counting",
+    "repoUrl": "https://github.com/peruguanvesh/DataInsight_BootCampProject-Pharmacy_Counting",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "LUMC",
+    "repo": "fastqsplitter",
+    "repoUrl": "https://github.com/LUMC/fastqsplitter",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "macrae",
+    "repo": "debate-checker",
+    "repoUrl": "https://github.com/macrae/debate-checker",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "hknustwmf",
+    "repo": "cassandra-table-properties",
+    "repoUrl": "https://github.com/hknustwmf/cassandra-table-properties",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "balanceofprobability",
+    "repo": "decaptcha",
+    "repoUrl": "https://github.com/balanceofprobability/decaptcha",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "mvwicky",
+    "repo": "baseball-utils",
+    "repoUrl": "https://github.com/mvwicky/baseball-utils",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "davidbgk",
+    "repo": "dear-kids",
+    "repoUrl": "https://github.com/davidbgk/dear-kids",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "aidan-mcbride",
+    "repo": "flask-blog-api",
+    "repoUrl": "https://github.com/aidan-mcbride/flask-blog-api",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "lubieowoce",
+    "repo": "sensa",
+    "repoUrl": "https://github.com/lubieowoce/sensa",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "DrBenton",
+    "repo": "goodauldbooks",
+    "repoUrl": "https://github.com/DrBenton/goodauldbooks",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "097475",
+    "repo": "hansberger",
+    "repoUrl": "https://github.com/097475/hansberger",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "talhadar90",
+    "repo": "bawajee",
+    "repoUrl": "https://github.com/talhadar90/bawajee",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "berkowitze",
+    "repo": "bcs-course",
+    "repoUrl": "https://github.com/berkowitze/bcs-course",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "reddit",
+    "repo": "baseplate.py-upgrader",
+    "repoUrl": "https://github.com/reddit/baseplate.py-upgrader",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "aolieman",
+    "repo": "dbp-same-thing-service",
+    "repoUrl": "https://github.com/aolieman/dbp-same-thing-service",
+    "stars": 0,
+    "forks": 1
+  },
+  {
+    "author": "yishenggudou",
+    "repo": "cython-algorithms",
+    "repoUrl": "https://github.com/yishenggudou/cython-algorithms",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "LingAny",
+    "repo": "data-access",
+    "repoUrl": "https://github.com/LingAny/data-access",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "bankroll-py",
+    "repo": "bankroll-broker",
+    "repoUrl": "https://github.com/bankroll-py/bankroll-broker",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "e2fyi",
+    "repo": "databricks-utils",
+    "repoUrl": "https://github.com/e2fyi/databricks-utils",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "bankroll-py",
+    "repo": "bankroll-broker-schwab",
+    "repoUrl": "https://github.com/bankroll-py/bankroll-broker-schwab",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "bankroll-py",
+    "repo": "bankroll-broker-fidelity",
+    "repoUrl": "https://github.com/bankroll-py/bankroll-broker-fidelity",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "bankroll-py",
+    "repo": "bankroll-broker-vanguard",
+    "repoUrl": "https://github.com/bankroll-py/bankroll-broker-vanguard",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "tinyperegrine",
+    "repo": "geoapi",
+    "repoUrl": "https://github.com/tinyperegrine/geoapi",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "minhman0809",
+    "repo": "helloWorld",
+    "repoUrl": "https://github.com/minhman0809/helloWorld",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "UUDigitalHumanitieslab",
+    "repo": "historic-hebrew-dates",
+    "repoUrl": "https://github.com/UUDigitalHumanitieslab/historic-hebrew-dates",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "yukihiko-shinoda",
+    "repo": "backup-wordpress",
+    "repoUrl": "https://github.com/yukihiko-shinoda/backup-wordpress",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "rafallan",
+    "repo": "gestao_clientes",
+    "repoUrl": "https://github.com/rafallan/gestao_clientes",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "T4rk1n",
+    "repo": "dazzler",
+    "repoUrl": "https://github.com/T4rk1n/dazzler",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "bitclave",
+    "repo": "base-auth",
+    "repoUrl": "https://github.com/bitclave/base-auth",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "platanus",
+    "repo": "gift-recommender",
+    "repoUrl": "https://github.com/platanus/gift-recommender",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "meltzg",
+    "repo": "FDDOrgan",
+    "repoUrl": "https://github.com/meltzg/FDDOrgan",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "kokokuo",
+    "repo": "DDD.CoffeeShop",
+    "repoUrl": "https://github.com/kokokuo/DDD.CoffeeShop",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "benthomasson",
+    "repo": "fake_kafka",
+    "repoUrl": "https://github.com/benthomasson/fake_kafka",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "cympfh",
+    "repo": "fastcnn",
+    "repoUrl": "https://github.com/cympfh/fastcnn",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "pdasigi",
+    "repo": "generative-semparse",
+    "repoUrl": "https://github.com/pdasigi/generative-semparse",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "Loco-doco",
+    "repo": "first_pj_by_kenny",
+    "repoUrl": "https://github.com/Loco-doco/first_pj_by_kenny",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "BMeu",
+    "repo": "Flask-EasyJWT",
+    "repoUrl": "https://github.com/BMeu/Flask-EasyJWT",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "reiyw",
+    "repo": "glimview",
+    "repoUrl": "https://github.com/reiyw/glimview",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "davidbmx",
+    "repo": "encuestas",
+    "repoUrl": "https://github.com/davidbmx/encuestas",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "elle510",
+    "repo": "ellegram",
+    "repoUrl": "https://github.com/elle510/ellegram",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "eillarra",
+    "repo": "carbonize",
+    "repoUrl": "https://github.com/eillarra/carbonize",
+    "stars": 0,
+    "forks": 0
+  },
+  {
+    "author": "stlehmann",
+    "repo": "flaskhab",
+    "repoUrl": "https://github.com/stlehmann/flaskhab",
+    "stars": 0,
+    "forks": 0
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "author": "DamnWidget",
+    "repo": "anaconda",
+    "repoUrl": "https://github.com/DamnWidget/anaconda",
+    "stars": 1780,
+    "forks": 205
+  },
+  {
+    "author": "Michael DeHaan",
+    "repo": "ansible",
+    "repoUrl": "https://github.com/ansible/ansible",
+    "stars": 544000,
+    "forks": 223000
+  },
+  {
+    "author": "bokeh team",
+    "repo": "bokeh",
+    "repoUrl": "https://github.com/bokeh/bokeh",
+    "stars": 167000,
+    "forks": 4000
+  },
+  {
+    "author": "Nicola larocci",
+    "repo": "cerberus",
+    "repoUrl": "https://github.com/pyeve/cerberus",
+    "stars": 28000,
+    "forks": 225
+  },
+  {
+    "author": "Jeff Forcier",
+    "repo": "invoke",
+    "repoUrl": "https://github.com/pyinvoke/invoke",
+    "stars": 37000,
+    "forks": 322
+  },
+  {
+    "author": "mtgjson",
+    "repo": "mtgjson",
+    "repoUrl": "https://github.com/mtgjson/mtgjson",
+    "stars": 104,
+    "forks": 28
+  },
+  {
+    "author": "Kozea team",
+    "repo": "pygal",
+    "repoUrl": "https://github.com/Kozea/pygal",
+    "stars": 25000,
+    "forks": 402
+  },
+  {
+    "author": "Hannes Karppila",
+    "repo": "sc2",
+    "repoUrl": "https://github.com/Dentosal/python-sc2",
+    "stars": 575,
+    "forks": 182
+  },
+  {
+    "author": "wemake-services",
+    "repo": "wemake-python-styleguide",
+    "repoUrl": "https://github.com/wemake-services/wemake-python-styleguide",
+    "stars": 307,
+    "forks": 95
+  },
+  {
+    "author": "alcarithemad",
+    "repo": "zfsp",
+    "repoUrl": "https://github.com/alcarithemad/zfsp",
+    "stars": 536,
+    "forks": 24
+  }
+]
