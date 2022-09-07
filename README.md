@@ -5,10 +5,11 @@ A dataset built for the DLIner. The hierarchy of the DLInfer and data are shown 
 >data. Extracted variable information, including slice, variable name, location and type.
 >>data_dynamic. Data using in RQ2 test, RQ3 training and test stores in this folder.
 >>>dynamic_json. Dynamic dataset using in RQ2, RQ3 test by running the testcases in 10 repos.
->>>data_static. Static dataset using in RQ1, RQ2 is extracted by pysonar2 and pyslicer.
->>>>train. Static dataset using in RQ1, RQ2 training.
->>>>valid. Static dataset using in RQ1, RQ2 validation.
->>>>test. Static dataset using in RQ1 test.
+
+>>data_static. Static dataset using in RQ1, RQ2 is extracted by pysonar2 and pyslicer.
+>>>train. Static dataset using in RQ1, RQ2 training.
+>>>valid. Static dataset using in RQ1, RQ2 validation.
+>>>test. Static dataset using in RQ1 test.
 
 >DLInfer_data. Original repos using in the RQs. These repos will be extracted in data preparation.
 >>star_orig_pro_train. Select 560 Github repos to build the training dataset. The source code of these 560 repos are in this folder.
